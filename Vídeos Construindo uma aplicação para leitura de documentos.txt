@@ -1,0 +1,34 @@
+Vídeos Construindo uma aplicação para leitura de documentos escaneados com NodeJS e Google Vision
+
+Parte 1
+https://www.youtube.com/watch?v=K7Ywx1p1oCQ
+
+Parte 2
+https://www.youtube.com/watch?v=lQ9nwaV3U20
+
+Parte 3
+https://www.youtube.com/watch?v=TH4eCfNPY7Y
+
+Parte 4
+https://www.youtube.com/watch?v=aPi-8KTQyJI
+
+Parte 5
+https://www.youtube.com/watch?v=HpxUvAP3LVg
+
+Parte 6
+https://www.youtube.com/watch?v=5xCamczGnpU
+
+Parte 7
+https://www.youtube.com/watch?v=_e1owk2NheE
+
+Parte 8
+https://www.youtube.com/watch?v=TFfEHLgjBMk
+
+Parte 9
+https://www.youtube.com/watch?v=mrTDLqoCO4Y
+
+Parte 10
+https://www.youtube.com/watch?v=I0jLqWiX2xA
+
+
+
